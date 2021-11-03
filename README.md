@@ -4,7 +4,7 @@
 ![minecraft](https://img.shields.io/badge/Client--Prefix-*-blueviolet)
 ![logo](https://github.com/CynicalMuffin/cosmos/blob/main/src/main/resources/assets/cosmos/textures/imgs/logo-github-light.png)
 
-Cosmos is a free, open-source, Minecraft 1.12.2 PvP Client aimed at the anarchy community.
+Cosmos is a free, open-source, Minecraft 1.12.2 PvP Client aimed at the anarchy community. Phobow?
 
 
 ## Download
